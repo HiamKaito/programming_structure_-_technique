@@ -1,5 +1,3 @@
-package GameTest;
-
 public class Sword extends Gear {
 
     public Sword(String name, float price, float damage) {
